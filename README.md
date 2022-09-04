@@ -29,3 +29,4 @@ add proxy config if you need
 1. open `dist` folder
 2. run `main.exe`
 3. after script executes success, it will generate a csv file
+![avatar](./result.png)
